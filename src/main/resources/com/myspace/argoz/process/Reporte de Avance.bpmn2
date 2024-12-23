@@ -429,7 +429,7 @@ if (revisores.size() > 0)
 kcontext.setVariable("LstReviewer", revisores);
 System.out.println("***************** Lista Revisores:" + kcontext.getVariable("LstReviewer"));
 
-kcontext.setVariable("StrServer", "http://20.163.141.92:8443");
+kcontext.setVariable("StrServer", "https://52.232.205.47");
 System.out.println("***************** StrServer:" + kcontext.getVariable("StrServer"));
 
 System.out.println("***************** Fin Asignación Reporte Avance *****************");]]></bpmn2:script>
